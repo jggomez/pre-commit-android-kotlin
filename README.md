@@ -3,7 +3,7 @@
 
 Android Kotlin hooks for [http://pre-commit.com/](http://pre-commit.com/)
 
-## Using pre-commit-hooks with pre-commit
+## Using pre-commit-hooks Android-Kotlin
 
 Add this to your `.pre-commit-config.yaml`
 
