@@ -1,5 +1,5 @@
 
-# pre-commit-hooks for Kotlin
+# pre-commit-hooks for Android-Kotlin
 
 Android Kotlin hooks for [http://pre-commit.com/](http://pre-commit.com/)
 
