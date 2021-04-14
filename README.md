@@ -20,7 +20,7 @@ Add this to your `.pre-commit-config.yaml`
 
 - `ktlint`: Runs `ktlintFormat`, requires ktlint.
 - `unit_tests`: Runs the unit tests 
-- `build`: Compiles for debug the source code of the project.
+- `build`: Compiles the source code of the project in debug mode
 
 Made with ❤ by  [jggomez](https://devhack.co).
 
