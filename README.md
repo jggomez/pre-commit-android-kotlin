@@ -9,7 +9,7 @@ Add this to your `.pre-commit-config.yaml`
 
 ```
     - repo: https://github.com/jggomez/pre-commit-android-kotlin
-      rev: HEAD
+      rev: v1.0.0
       hooks:
       - id: ktlint
       - id: unit_tests
