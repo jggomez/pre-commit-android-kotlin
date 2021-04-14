@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-echo "Running git pre-commit hook"
+echo "Running ktlint format"
 
 ./gradlew ktlintFormat
 ./gradlew ktlintCheck

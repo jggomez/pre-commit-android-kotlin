@@ -3,3 +3,15 @@
   description: Runs ktlint
   entry: ./scripts/ktlint.sh
   language: script
+
+- id: unit_tests
+  name: unittests
+  description: Runs unit tests
+  entry: ./scripts/unittests.sh
+  language: script
+
+- id: build
+  name: build
+  description: Building App
+  entry: ./scripts/build.sh
+  language: script
