@@ -3,7 +3,7 @@
 echo "Running ktlint format"
 
 ./gradlew ktlintFormat
-./gradlew ktlintCheck
+RESULT=$?
 
 [ $RESULT -ne 0 ] && exit 1
 exit 0
